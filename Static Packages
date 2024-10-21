@@ -18,7 +18,7 @@
   "@type": "TouristTrip",
   "name": "Exclusive Travel Packages",
   "description": "Experience the perfect blend of adventure, culture, and relaxation with thoughtfully designed travel experiences. Book your journey today!",
-  "touristType": "Tourist",
+  "touristType": "Traveler",
   "offers": {
     "@type": "Offer",
     "url": "https://fitsholidays.com/static-packages",  // General URL for dynamic packages
