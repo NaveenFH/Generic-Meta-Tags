@@ -1,0 +1,32 @@
+<!-- Meta Tags for Static Packages -->
+<title>Exclusive Travel Packages | Sri Lanka Tours | Fits Holidays</title>
+<meta name="description" content="Experience the perfect blend of adventure, culture, and relaxation with thoughtfully designed travel experiences. Book your journey today!">
+<meta name="keywords" content="sri lanka tour packages, sri lanka tour, dubai tour packages from sri lanka, tour packages from sri lanka, travel packages, outbound tour operators in sri lanka, 3 days sri lanka tour, 5 days sri lanka tour, 6 days sri lanka tour, 7 days sri lanka tour, 2 nights sri lanka tour, 3 nights sri lanka tour, 4 nights sri lanka tour, 5 nights sri lanka tour, 6 nights sri lanka tour" 
+
+<!-- OG Tags -->
+<meta property="og:title" content=">Exclusive Travel Packages | Sri Lanka Tours | Fits Holidays">
+<meta property="og:description" content=""Embrace adventure, culture, and relaxation with our expertly designed travel experiences. Book your journey today!">
+<meta property="og:image" content="https://yourwebsite.com/images/default-static-packages.jpg"> <!-- Use a default image for dynamic packages -->
+<meta property="og:url" content="https://yourwebsite.com/dynamic-packages"> <!-- General URL for dynamic packages -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Exclusive Travel Packages",
+  "description": "Experience the perfect blend of adventure, culture, and relaxation with thoughtfully designed travel experiences. Book your journey today!",
+  "touristType": "Tourist",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://fitsholidays.com/static-packages",  // General URL for dynamic packages
+    "itemOffered": {
+      "@type": "Product",
+      "name": "Exclusive Travel Packages",
+      "description": "Exclusive tour packages, offering unique itineraries that combine adventure, culture, and luxury. Enjoy handpicked experiences tailored for discerning travelers seeking unforgettable journeys."
+    }
+  }
+}
+</script>
