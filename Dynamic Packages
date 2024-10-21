@@ -1,0 +1,32 @@
+<!-- Meta Tags for Dynamic Packages -->
+<title>Customizable Travel Packages | Sri Lanka Tours | Fits Holidays</title>
+<meta name="description" content="Create your perfect getaway with Fits Holidays. Choose from flexible travel options and fully customizable tours. Start planning your adventure today!">
+<meta name="keywords" content="sri lanka tour packages, sri lanka tour, dubai tour packages from sri lanka, tour packages from sri lanka, travel packages, outbound tour operators in sri lanka, customizable tour, holiday packages" 
+
+<!-- OG Tags -->
+<meta property="og:title" content=">Customizable Travel Packages | Sri Lanka Tours | Fits Holidays">
+<meta property="og:description" content="Tailor your ideal vacation with Fits Holidays' customizable travel packages. Personalize every aspect to fit your unique travel style!">
+<meta property="og:image" content="https://yourwebsite.com/images/default-dynamic-packages.jpg"> <!-- Use a default image for dynamic packages -->
+<meta property="og:url" content="https://yourwebsite.com/dynamic-packages"> <!-- General URL for dynamic packages -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Fits Holidays">
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Customizable Travel Packages",
+  "description": "Experience the flexibility of creating your perfect getaway with Fits Holidays' customizable travel packages. Tailor your adventure to suit your needs.",
+  "touristType": "Traveler",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://fitsholidays.com/dynamic-packages",  // General URL for dynamic packages
+    "itemOffered": {
+      "@type": "Product",
+      "name": "Customizable Travel Packages",
+      "description": "Flexible travel packages that allow you to design your own adventure and create unforgettable memories."
+    }
+  }
+}
+</script>
